@@ -1,0 +1,39 @@
+@font-face {
+  font-family: Inter;
+  src: url('./assets/fonts/Inter.ttf');
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url('./assets/fonts/Montserrat.ttf');
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-style:italic;
+  src: url('./assets/fonts/Montserrat_Italic.ttf');
+}
+
+
+body, html {
+  margin:0;
+  font-family:Montserrat, sans-serif;
+
+  color:white;
+  background:#2b2b2b;
+}
+
+.container {
+  margin:auto;
+  width:650px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight:700;
+}
+
+p {
+  font-weight:700;
+  font-size:20px;
+}
+
