@@ -16,7 +16,7 @@ nav {
 
 .heading {
   margin-top:-80px;
-  background: linear-gradient(to right, royalblue, skyblue);
+  background: linear-gradient(to right,  #004F98, #00308F);
   animation:colorSpin 10s linear infinite;
   box-sizing: border-box;
   position: relative;
@@ -61,7 +61,7 @@ nav {
         transition: font-size 0.5s ease-in-out;
         margin:0;
         font-family:Montserrat;
-        font-weight:900;
+        font-weight:800;
         font-style:black;
       }
 
