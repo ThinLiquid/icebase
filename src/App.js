@@ -10,7 +10,7 @@ function App() {
           <div className="content">
             <h1>Stream high-quality music <span className="special">for completely free</span>.</h1>
             <p>A streaming service for <span className="special">everyone</span>.</p>
-            <button className="special-btn">Get Started</button>&nbsp;&nbsp;&nbsp;<button className="btn">View Plans</button>
+            <button className="special-btn">Start listening</button>&nbsp;&nbsp;&nbsp;<button className="btn">View Plans</button>
           </div>
         </div>
       </div>
