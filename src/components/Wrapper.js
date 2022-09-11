@@ -6,9 +6,7 @@ export default function Wrapper(content) {
     return (
         <div className="wrapper">
             <Nav/>
-            <div className="container">
-                {content.children}
-            </div>
+            {content.children}
         </div>
     );
 }
